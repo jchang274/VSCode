@@ -1,0 +1,19 @@
+body {
+    color: red;
+}
+
+a:hover {
+    color: green;
+    line-height: 2em;
+}
+
+input:focus {
+    background-color: grey;
+}
+
+div {
+    color: fuchsia;
+    height: 100px;
+    width: 100px;
+    background-color: fuchsia;
+}
