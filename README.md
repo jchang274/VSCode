@@ -2,7 +2,7 @@
 
 ## 目录
 
-#### 自学（Selfteaching）
+### 自学（Selfteaching）
 
 >* [读书笔记](/ReadingNotes/)
 >* [交易知识](/Trade-Learning/)
@@ -10,24 +10,25 @@
 >* [英语学习](/EN-Learning/)
 >* [医学知识](/MED-Learning/)
 
-#### 计算机（Programing）
+### 计算机（Programing）
 
 >* [TypeScript 学习](/TS-Learning/)
 >* [JavaScript 学习](/JS-Learning/)
 >* [Python 学习](/PY-Learning/)
 >* [Golang 学习](/GO-Learning/)
 
-#### 个人项目（Individual Projects）
+### 个人项目（Individual Projects）
 
 >* [Tools](/ComputerTools/)
 
 #### 合作项目（Cooperation Projects）
 
 >* [交易奇才](https://marketwizards.cn/)
->* **西多夫Seedof**（[指标](https://www.trading-logic.com/wiki/trading-indicator.html) · [油管](https://www.youtube.com/channel/UCb8NhaAmTLU5uwKE_jfttCg) · [推特]()）
+>* **西多夫Seedof**（[指标](https://www.trading-logic.com/wiki/trading-indicator.html) · [油管](https://www.youtube.com/channel/UCb8NhaAmTLU5uwKE_jfttCg) · [推特](www.twitter.com)）
 >* **Pyroman**
 
-#### 数据获取（Date）
+### 数据获取（Date）
+
 >* Pyroman
 
 ---
@@ -45,5 +46,3 @@ VScode 集成了github功能，安装相应扩展就行了，可以推送到gith
 [返回顶部](#目录)
 
 [返回顶部](#目录)
-
-[返回目录](#目录)
