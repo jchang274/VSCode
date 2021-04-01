@@ -4,6 +4,8 @@
 
 ### [VSCode](#vscode)
 
+[读书笔记](/ReadingNotes/)
+
 ---
 
 ## VSCode
