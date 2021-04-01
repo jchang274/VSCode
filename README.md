@@ -19,8 +19,7 @@
 
 #### 个人项目（Individual Projects）
 
->* [Tools]](/ComputerTools/)
-
+>* [Tools](/ComputerTools/)
 
 #### 合作项目（Cooperation Projects）
 
