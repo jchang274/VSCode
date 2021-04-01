@@ -4,7 +4,9 @@
 
 ### [VSCode](#vscode)
 
-[读书笔记](/ReadingNotes/)
+> * [读书笔记](/ReadingNotes/)
+> * [TypeScript 学习](/TS-Learning/)
+> * [英语学习](/EnglishLearning/)
 
 ---
 
