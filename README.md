@@ -24,8 +24,8 @@
 #### 合作项目（Cooperation Projects）
 
 >* [交易奇才](https://marketwizards.cn/)
->* 西多夫Seedof（[指标](https://www.trading-logic.com/wiki/trading-indicator.html) · [油管](https://www.youtube.com/channel/UCb8NhaAmTLU5uwKE_jfttCg) · [推特]()）
->* Pyroman
+>* **西多夫Seedof**（[指标](https://www.trading-logic.com/wiki/trading-indicator.html) · [油管](https://www.youtube.com/channel/UCb8NhaAmTLU5uwKE_jfttCg) · [推特]()）
+>* **Pyroman**
 
 #### 数据获取（Date）
 >* Pyroman
