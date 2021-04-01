@@ -8,7 +8,7 @@
 >* [交易知识](/Trade-Learning/)
 >* [飞行知识](/Aviation-Learning/)
 >* [英语学习](/EN-Learning/)
->* [医学知识](/-Learning/)
+>* [医学知识](/MED-Learning/)
 
 #### 计算机（Programing）
 
@@ -19,7 +19,7 @@
 
 #### 个人项目（Individual Projects）
 
->* [Tools]](/Computer Tools/)
+>* [Tools]](/ComputerTools/)
 
 
 #### 合作项目（Cooperation Projects）
