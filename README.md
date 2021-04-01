@@ -1,8 +1,9 @@
-# 个人学习用仓库
+# 欢迎来到Jchang274的Github
 
 ## 目录
 
 #### 自学（Selfteaching）
+
 >* [读书笔记](/ReadingNotes/)
 >* [交易知识](/Trade-Learning/)
 >* [飞行知识](/Aviation-Learning/)
@@ -10,19 +11,19 @@
 >* [医学知识](/-Learning/)
 
 #### 计算机（Programing）
+
 >* [TypeScript 学习](/TS-Learning/)
 >* [JavaScript 学习](/JS-Learning/)
 >* [Python 学习](/PY-Learning/)
 >* [Golang 学习](/GO-Learning/)
 
-
 #### 个人项目（Individual Projects）
->* [TypeScript 学习](/TS-Learning/)
->* [TypeScript 学习](/TS-Learning/)
->* [TypeScript 学习](/TS-Learning/)
->* [TypeScript 学习](/TS-Learning/)
 
-####合作项目（Cooperation Projects）
+>* [Tools]](/Computer Tools/)
+
+
+#### 合作项目（Cooperation Projects）
+
 >* 交易奇才
 >* 西多夫
 >* Pyroman
