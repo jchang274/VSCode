@@ -1,4 +1,4 @@
-# 欢迎来到Jchang274的Github
+# 欢迎来到jchang274的Github
 
 ## 目录
 
@@ -23,8 +23,11 @@
 
 #### 合作项目（Cooperation Projects）
 
->* 交易奇才
->* 西多夫
+>* [交易奇才](https://marketwizards.cn/)
+>* 西多夫Seedof（[指标](https://www.trading-logic.com/wiki/trading-indicator.html)·[油管](https://www.youtube.com/channel/UCb8NhaAmTLU5uwKE_jfttCg)·[推特]()）
+>* Pyroman
+
+#### 数据获取（Date）
 >* Pyroman
 
 ---
@@ -34,7 +37,9 @@
 VScode 集成了github功能，安装相应扩展就行了，可以推送到github仓库。
 
 使用技巧：
+
 * 自动生成括号，跳出括号只需要，**输入对应的右括号**，换行可以用Ctrl+Enter
+  
 * Tabout **插件**，通过按Tab键跳出括号，不适合markdown文件
 
 [返回顶部](#目录)
