@@ -2,21 +2,21 @@
 
 ## 目录
 
-####自学（Selfteaching）
+#### 自学（Selfteaching）
 >* [读书笔记](/ReadingNotes/)
 >* [交易知识](/Trade-Learning/)
 >* [飞行知识](/Aviation-Learning/)
 >* [英语学习](/EN-Learning/)
 >* [医学知识](/-Learning/)
 
-####计算机（Programing）
+#### 计算机（Programing）
 >* [TypeScript 学习](/TS-Learning/)
 >* [JavaScript 学习](/JS-Learning/)
 >* [Python 学习](/PY-Learning/)
 >* [Golang 学习](/GO-Learning/)
 
 
-####个人项目（Individual Projects）
+#### 个人项目（Individual Projects）
 >* [TypeScript 学习](/TS-Learning/)
 >* [TypeScript 学习](/TS-Learning/)
 >* [TypeScript 学习](/TS-Learning/)
