@@ -1,3 +1,12 @@
+encyclopedia。
+narrow-body。
+supplement。
+abbreviated。
+renew。
+subscription。
+expire。
+Marina Bay。
+shortcuts。
 identifier。
 immediately。
 numeric literal。
@@ -47,4 +56,4 @@ dive in。
 bundle。
 Tinder。
 nest。
-terminology
+terminology。
